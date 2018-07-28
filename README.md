@@ -1,2 +1,2 @@
-# GifTastic-Repository
+# File updated with Giphy API
 GifTastic Repository
